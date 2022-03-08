@@ -21,7 +21,7 @@
 [Проект №3 readme](https://github.com/Takakyli/my_projects/blob/main/project_3/project3_readme.md)
 
 
-[Проект №3](https://github.com/Takakyli/my_projects/blob/main/project_3/project3_readme.md)
+[Проект №3](https://github.com/Takakyli/my_projects/blob/main/project_3/project%233_tkn.ipynb)
  - **Сфера деятельности компании:** Telecom
  - **Направление деятельности:**  Data analyst, маркетиг-аналитик, продуктовый аналитик
  - **Навыки и инструметы:** Mathplotlib, Pandas, Numpy, Python, SciPy, описательная статистика, проверка статистических гипотез
